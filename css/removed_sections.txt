@@ -1,0 +1,103 @@
+
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+			<div id="footer-bottom-menu" class="navigation clr">
+				<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-638" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-638"><a href="https://esummitiitm.com">Home</a></li>
+<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="https://esummitiitm.com/our-story/">Our Story</a></li>
+<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://esummitiitm.com/events/">Events</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://esummitiitm.com/login-register/">Login/Register</a></li>
+<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="https://esummitiitm.com/sponsors/">Past Sponsors</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="https://esummitiitm.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://esummitiitm.com/team/">The Team</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://esummitiitm.com/faqs/">FAQs</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://esummitiitm.com/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div><!-- #footer-bottom-menu -->
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Developed by Web Operations, Entrepreneurship Cell IIT Madras			</div><!-- #copyright -->
+
+		
+	</div><!-- #footer-bottom-inner -->
+
+	
+	
+		      <!-- footer
+	================================================== -->
+	<footer id="main-footer">
+
+   	<div class="footer-social-wrap">  
+   		<div class="row">
+					
+	         <ul class="footer-social-list">
+	            <li><a href="https://www.facebook.com/ECELLIITM/" target="_blank">
+	             	<i class="fa fa-facebook-square"></i>
+	            </a></li>
+	           <!-- <li><a href="#">
+	              	<i class="fa fa-twitter"></i>
+	            </a></li>
+              <li><a href="#">
+	              	<i class="fa fa-google-plus"></i>
+	            </a></li>
+	            <li><a href="#">
+	              	<i class="fa fa-pinterest"></i>
+	            </a></li>-->
+	            <li><a href="https://www.instagram.com/ecell_iitm/" target="_blank">
+	              	<i class="fa fa-instagram"></i>
+	            </a></li>
+	            <li><a href="https://www.linkedin.com/company/e-cell-iitm/" target="_blank">
+	              	<i class="fa fa-linkedin"></i>
+	            </a></li>
+	         </ul>
+		         
+			</div> 
+   	</div> <!-- /footer-social-wrap -->
+
+	   <div class="footer-info-wrap">
+
+	   	<div class="row footer-info">
+
+		  		<div class="col-four tab-full">
+		  			<h4><i class="icon-location-map-1"></i>Where to Find Us</h4>
+
+		  		<p>
+		         Indian Institute Of Technology<br /> 
+		         Chennai, Tamil Nadu 600036<br />
+		         India		        
+		        </p>
+		  		</div>
+
+		   	<div class="col-four tab-full collapse">
+	   			<h4><i class="icon-phone-incoming"></i> Get In Touch</h4>
+
+	   			<p>someone@elevatewebsite.com<br>
+				   	info@elevatewebsite.com <br>
+				   	Phone: (+63) 555 1212			     
+				   </p>
+	   		</div>
+
+	   		<div class="col-four tab-full">
+	   			<h4><i class="icon-organization-hierarchy-3"></i> Company Links</h4>
+
+				   <ul class="footer-link-list">
+				   	<li><a href="#">Company Journal</a></li>
+				   	<li><a href="#">Product Support</a></li>
+				   	<li><a href="#">Privacy Policy</a></li>
+				   </ul>
+	   		</div>
+		   		
+		  	</div>
+	   </div> <!-- /footer-info-wrap -->
+	   	
+	   <div class="footer-bottom"> 
+
+	   	<div class="copyright">
+		     	<span>© Copyright Elevate 2019.</span> 
+		     	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>	         	
+		   </div>  		
+   	</div>
